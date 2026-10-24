@@ -1,1 +1,2 @@
 # Bus-Go-A-Bus-Ticket-Booking-and-Travel-Management-System
+BusGo is a web-based bus booking system designed to make bus travel easier and more convenient. It allows users to explore buses, check seat availability, select seats, manage bookings, and handle booking payments through a digital wallet. The project uses HTML, CSS, and JavaScript for the frontend, PHP for backend API functionality, and MySQL for database management. It aims to provide a simple, user-friendly, and efficient platform for bus reservation and payment management.
